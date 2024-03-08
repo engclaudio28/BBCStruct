@@ -3,8 +3,7 @@ from elemento import element as el
 from no import node as nd
 from apoio import apoio as ap
 import numpy as np
-#from matrizrigidez import Ug
-from nlg import Ug
+from matrizrigidez import Ug
 
 Ug = np.reshape( Ug , ( len( nd.CN ) , 3 ) )
 

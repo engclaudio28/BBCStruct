@@ -789,17 +789,9 @@ q_load.carga_dist( 64 , 189.56 )
 q_load.carga_dist( 65 , 189.56 )
 
 
-
-#from plot_estrutura import plot_elements
-#plot_elements
-
 from matrizrigidez import result
 
 result.make()
-
-from nlg import result_2
-
-result_2.make_2()
 
 
 from plot_estrutura_def import plot_elements_def as ped
@@ -807,9 +799,5 @@ ped.make( 10 )
 
 from plot_results import plot_results
 plot_results
-
-from plot_results_nlg import plot_results_2
-
-plot_results_2
 
 
