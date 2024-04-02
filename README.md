@@ -8,3 +8,7 @@ O código implementado utiliza o método da rigidez direta para determinar esfor
 (The implemented code utilizes the direct stiffness method to determine internal forces in planar structures. Currently, the code only displays textual results. Graphically, only the axial force in two-hinged bars is shown.)
 
 Contato do autor (Author contact): claudio.correa.f.cf@gmail.com
+
+Donate:
+claudio.correa.f.cf@gmail.com
+José Claudio Corrêa Filho
